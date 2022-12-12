@@ -13,14 +13,6 @@ Hi there! I am Chetan Sharma👋
 
 💯 I have skills in C, C++, HTML, CSS, Javascript, React JS, TypeScript, Linux.
 
-📫 How to reach me: Drop a mail on [📕 I am currently studying Computer Engineering at Thapar Institute Of Engineering And Technology, Patiala(2018-2022).
-
 🌱 I’m currently learning Data Science as my main Elective Focus.
-
-📈 I also do competitive programming side by side. Check out my profiles: Leetcode and Hackerrank
-
-🧐 I have good knowledge of Data Structures and Algorithms, Computer Networks, Operating Systems and DataBase Management Systems.
-
-💯 I have skills in C, C++, Java, HTML, CSS, Javascript, Python and Oracle.
 
 📫 How to reach me: Drop a mail on [chetansharma119821@gmail.com]
